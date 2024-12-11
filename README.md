@@ -26,14 +26,10 @@
   - File handling for persistence (scores, states, leaderboard).
 
 ### **How to Run**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/GameBoy.git
-   ```
-2. Install **SFML** and configure it in your development environment (e.g., Visual Studio).
-3. Open the `.sln` file in Visual Studio.
-4. Build the project in Debug or Release mode.
-5. Run the executable and enjoy the games.
+
+1. Open the `.sln` file in Visual Studio.
+2. Build the project in Debug or Release mode.
+3. Run the executable and enjoy the games.
 
 ### **Screenshots**
 
