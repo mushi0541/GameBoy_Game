@@ -1,0 +1,86 @@
+﻿  Coordinates.cpp
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\Coordinates.cpp(2,42): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\Coordinates.cpp(2,48): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  DifficultyHandler.cpp
+  Food.cpp
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\Food.cpp(33,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\Food.cpp(33,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\Food.cpp(37,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\Food.cpp(37,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+  GameBoy.cpp
+  GameBoyMenuHandler.cpp
+  GameConstants.cpp
+  GameMenuHandler.cpp
+  GridSystem.cpp
+  HangMan.cpp
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(29,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(52,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(68,17): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(71,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,101): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,101): warning C4244:         with
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,101): warning C4244:         [
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,101): warning C4244:             T=float
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,101): warning C4244:         ]
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,82): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,82): warning C4244:         with
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,82): warning C4244:         [
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,82): warning C4244:             T=float
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,82): warning C4244:         ]
+  HangManMenuHandler.cpp
+  HighScores.cpp
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\HighScores.cpp(73,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  KeyboardHandler.cpp
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(22,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(26,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(30,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(50,40): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,71): warning C4244:         with
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,71): warning C4244:         [
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,71): warning C4244:             T=float
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,71): warning C4244:         ]
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,50): warning C4244:         with
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,50): warning C4244:         [
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,50): warning C4244:             T=float
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,50): warning C4244:         ]
+  LeaderBoard.cpp
+  MySprite.cpp
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\MySprite.cpp(27,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\MySprite.cpp(28,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+  Snake.cpp
+  SnakeGame.cpp
+  SoundBufferHandler.cpp
+  WordleGame.cpp
+  Compiling...
+  WordleKeyboardHandler.cpp
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(23,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(27,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(31,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(111,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(111,65): warning C4244:         with
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(111,65): warning C4244:         [
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(111,65): warning C4244:             T=float
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(111,65): warning C4244:         ]
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(111,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(111,44): warning C4244:         with
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(111,44): warning C4244:         [
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(111,44): warning C4244:             T=float
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(111,44): warning C4244:         ]
+  WordleMenuHandler.cpp
+  WordleWordManager.cpp
+  WordManager.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\HangManMenuHandler.cpp(144): warning C4715: 'HangManMenuHandler::pauseMenu': not all control paths return a value
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\GameMenuHandler.cpp(188): warning C4715: 'GameMenuHandler::pauseMenu': not all control paths return a value
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\WordleMenuHandler.cpp(145): warning C4715: 'WordleMenuHandler::pauseMenu': not all control paths return a value
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\GameMenuHandler.cpp(235): warning C4715: 'GameMenuHandler::startMenu': not all control paths return a value
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(136): warning C4715: 'KeyboardHandler::handleInput': not all control paths return a value
+F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\Snkae_Game\GameMenuHandler.cpp(418): warning C4715: 'GameMenuHandler::handleMenuLoop': not all control paths return a value
+  All 462 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Snkae_Game.vcxproj -> F:\OOP Game Boy Project\Gameboy\Gameboy\Snkae_Game\x64\Release\Snkae_Game.exe

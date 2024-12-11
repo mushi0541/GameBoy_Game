@@ -1,0 +1,83 @@
+﻿  Coordinates.cpp
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\Coordinates.cpp(2,42): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\Coordinates.cpp(2,48): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  DifficultyHandler.cpp
+  Food.cpp
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\Food.cpp(33,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\Food.cpp(33,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\Food.cpp(37,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\Food.cpp(37,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+  GameBoy.cpp
+  GameBoyMenuHandler.cpp
+  GameConstants.cpp
+  GameMenuHandler.cpp
+  GridSystem.cpp
+  HangMan.cpp
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(29,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(52,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(68,17): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(71,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,101): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,101): warning C4244:         with
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,101): warning C4244:         [
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,101): warning C4244:             T=float
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,101): warning C4244:         ]
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,82): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,82): warning C4244:         with
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,82): warning C4244:         [
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,82): warning C4244:             T=float
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\HangMan.cpp(141,82): warning C4244:         ]
+  HangManMenuHandler.cpp
+  HighScores.cpp
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\HighScores.cpp(74,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  KeyboardHandler.cpp
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(22,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(26,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(30,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(50,40): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,71): warning C4244:         with
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,71): warning C4244:         [
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,71): warning C4244:             T=float
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,71): warning C4244:         ]
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,50): warning C4244:         with
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,50): warning C4244:         [
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,50): warning C4244:             T=float
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(99,50): warning C4244:         ]
+  LeaderBoard.cpp
+  MySprite.cpp
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\MySprite.cpp(27,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\MySprite.cpp(28,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+  Snake.cpp
+  SnakeGame.cpp
+  SoundBufferHandler.cpp
+  WordleGame.cpp
+  Generating Code...
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\KeyboardHandler.cpp(136): warning C4715: 'KeyboardHandler::handleInput': not all control paths return a value
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\HangManMenuHandler.cpp(144): warning C4715: 'HangManMenuHandler::pauseMenu': not all control paths return a value
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\GameMenuHandler.cpp(188): warning C4715: 'GameMenuHandler::pauseMenu': not all control paths return a value
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\GameMenuHandler.cpp(419): warning C4715: 'GameMenuHandler::handleMenuLoop': not all control paths return a value
+  Compiling...
+  WordleKeyboardHandler.cpp
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(24,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(28,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(32,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(113,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(113,65): warning C4244:         with
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(113,65): warning C4244:         [
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(113,65): warning C4244:             T=float
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(113,65): warning C4244:         ]
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(113,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(113,44): warning C4244:         with
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(113,44): warning C4244:         [
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(113,44): warning C4244:             T=float
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\WordleKeyboardHandler.cpp(113,44): warning C4244:         ]
+  WordleMenuHandler.cpp
+  WordleWordManager.cpp
+  WordManager.cpp
+  Generating Code...
+C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\Snkae_Game\WordleMenuHandler.cpp(145): warning C4715: 'WordleMenuHandler::pauseMenu': not all control paths return a value
+  Snkae_Game.vcxproj -> C:\Users\abbas\OneDrive\Desktop\Gameboy\Snkae_Game\x64\Debug\Snkae_Game.exe
