@@ -10,7 +10,7 @@
   - **Snake**: The classic snake game with dynamic scoring.
   - **Wordle**: A word-puzzle game with feedback for correct/incorrect guesses.
 - **Leaderboard**:
-  - Displays the top 10 players with scores from all games.
+  - Displays the top 7 players with scores from all games.
   - Automatically updates and prevents duplicate player entries.
 - **Save and Load**:
   - File handling for saving and retrieving game states and high scores.
