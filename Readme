@@ -1,0 +1,32 @@
+# GameBoy: OOP Semester Project
+
+**GameBoy** is a C++ project inspired by the classic GameBoy device, developed by **Mushahid Hussain & Ahmad Bilal** under the supervision of **Sir Aqib Rehman**. The project combines three classic games—Hangman, Snake, and Wordle—along with an integrated leaderboard system. It showcases advanced **Object-Oriented Programming (OOP)** concepts and emphasizes manual implementation of features without relying on vectors or advanced libraries.
+
+## **Project Overview**
+- **Developed By**: Mushahid Hussain & Ahmad Bilal
+- **Instructor**: Sir Aqib Rehman
+- **Institution**: FAST NUCES, Islamabad Campus
+- **Course**: Object-Oriented Programming (OOP)
+- **Core Features**:
+  - Manual implementations (file handling, arrays, and logic).
+  - SFML graphics integration.
+  - Save/load functionalities for scores and game states.
+  - An automatic leaderboard for tracking top players.
+
+## **Games Included**
+1. **Hangman**:
+   - Classic word-guessing game with a visual hangman display.
+   - Hint system to reveal letters.
+   - Lives tracking.
+
+2. **Snake**:
+   - Navigate the snake to collect food while avoiding collisions.
+   - Dynamic score tracking.
+
+3. **Wordle**:
+   - Guess a 5-letter word within limited attempts.
+   - Feedback on correct/incorrect guesses via colors.
+
+ **Leaderboard**:
+   - Displays top 7 players with scores for each game and total scores.
+   - Automatically updates and prevents duplicate entries.
